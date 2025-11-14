@@ -240,11 +240,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mateo\\OneDrive\\Documents\\VFS\\T1\\Coding\\Assignment1\\Assignment1.csproj",
+      "projectUniqueName": "C:\\Users\\mateo\\OneDrive\\Documents\\VFS\\T1\\Coding\\VFS_CodingAssignment1\\Assignment1.csproj",
       "projectName": "Assignment1",
-      "projectPath": "C:\\Users\\mateo\\OneDrive\\Documents\\VFS\\T1\\Coding\\Assignment1\\Assignment1.csproj",
+      "projectPath": "C:\\Users\\mateo\\OneDrive\\Documents\\VFS\\T1\\Coding\\VFS_CodingAssignment1\\Assignment1.csproj",
       "packagesPath": "C:\\Users\\mateo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mateo\\OneDrive\\Documents\\VFS\\T1\\Coding\\Assignment1\\obj\\",
+      "outputPath": "C:\\Users\\mateo\\OneDrive\\Documents\\VFS\\T1\\Coding\\VFS_CodingAssignment1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",

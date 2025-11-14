@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mateo\\OneDrive\\Documents\\VFS\\T1\\Coding\\Assignment1\\",
+  "WorkspaceRootPath": "C:\\Users\\mateo\\OneDrive\\Documents\\VFS\\T1\\Coding\\VFS_CodingAssignment1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BBE11C9-8B68-399E-07AF-B0CB580D0532}|Assignment1.csproj|c:\\users\\mateo\\onedrive\\documents\\vfs\\t1\\coding\\assignment1\\voicetotextprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2BBE11C9-8B68-399E-07AF-B0CB580D0532}|Assignment1.csproj|c:\\users\\mateo\\onedrive\\documents\\vfs\\t1\\coding\\vfs_codingassignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBE11C9-8B68-399E-07AF-B0CB580D0532}|Assignment1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBE11C9-8B68-399E-07AF-B0CB580D0532}|Assignment1.csproj|c:\\users\\mateo\\onedrive\\documents\\vfs\\t1\\coding\\vfs_codingassignment1\\voicetotextprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BBE11C9-8B68-399E-07AF-B0CB580D0532}|Assignment1.csproj|solutionrelative:voicetotextprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\VFS\\T1\\Coding\\VFS_CodingAssignment1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\VFS\\T1\\Coding\\VFS_CodingAssignment1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:40:00.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "VoiceToTextProtocol.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\VFS\\T1\\Coding\\Assignment1\\VoiceToTextProtocol.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\VFS\\T1\\Coding\\VFS_CodingAssignment1\\VoiceToTextProtocol.cs",
               "RelativeDocumentMoniker": "VoiceToTextProtocol.cs",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\VFS\\T1\\Coding\\Assignment1\\VoiceToTextProtocol.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\VFS\\T1\\Coding\\VFS_CodingAssignment1\\VoiceToTextProtocol.cs",
               "RelativeToolTip": "VoiceToTextProtocol.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwDkAAACKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T08:29:23.16Z",
               "EditorCaption": ""

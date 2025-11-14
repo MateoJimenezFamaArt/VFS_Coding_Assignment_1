@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4AzKi/fxco8=",
+  "dgSpecHash": "1N2CEkPfrDo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mateo\\OneDrive\\Documents\\VFS\\T1\\Coding\\Assignment1\\Assignment1.csproj",
+  "projectFilePath": "C:\\Users\\mateo\\OneDrive\\Documents\\VFS\\T1\\Coding\\VFS_CodingAssignment1\\Assignment1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mateo\\.nuget\\packages\\naudio\\2.2.1\\naudio.2.2.1.nupkg.sha512",
     "C:\\Users\\mateo\\.nuget\\packages\\naudio.asio\\2.2.1\\naudio.asio.2.2.1.nupkg.sha512",

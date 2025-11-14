@@ -16,8 +16,9 @@ public class Program
 
         var voice = new VoiceToTextProtocol(); //<-- Created an instance of a VoiceToTextProtocol class
 
-        voice.VoiceToTextProtocolCreator("C:\\Users\\mateo\\OneDrive\\Documents\\VFS\\T1\\Coding\\Assignment1\\ASK THE TEACH\\vosk-model-small-en-us-0.15\\VoskLite\\");//<-- Initialized the model with the path to it
-
+        //TLDR Figure out with teach how to make the path for the model document itself be embeded in the project as to make it compatible with other computres / enviroments
+        voice.VoiceToTextProtocolCreator("C:\\Users\\mateo\\OneDrive\\Documents\\VFS\\T1\\Coding\\VFS_CodingAssignment1\\ASK THE TEACH\\vosk-model-small-en-us-0.15\\VoskLite");//<-- Initialized the model with the path to it
+        //Meanwhile every time you get to a new enviroment just change the path to the model folder accordingly by copying its path from the project itslef in the ASK THE TEACH folder
 
         Console.WriteLine("Hello player, what is your name?");
         string playerName = voice.ReadPlayersInput(); //<-- Used the ReadPlayersInput method to get the player's name via voice input

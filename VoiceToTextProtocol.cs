@@ -4,8 +4,6 @@ using NAudio.Wave;
 using System.Text.Json;
 using System.Security.Cryptography.X509Certificates;
 
-
-//Path : "C:\\Users\\mateo\\OneDrive\\Documents\\VFS\\T1\\Coding\\Assignment1\\ASK THE TEACH\\vosk-model-small-en-us-0.15\\VoskLite\\
 public class VoiceToTextProtocol//<-- Class that handles the voice to text protocol
 {
     private Model model;// <-- Vosk model for speech recognition
